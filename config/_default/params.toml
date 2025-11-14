@@ -1,5 +1,5 @@
 colorScheme = "blowfish"
-defaultAppearance = "light"
+defaultAppearance = "Dark"
 autoSwitchAppearance = true
 enableA11y = false
 enableSearch = true
@@ -20,6 +20,7 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
+smartTOC = ""
 
 [header]
 layout = "basic"
