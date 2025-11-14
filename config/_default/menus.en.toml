@@ -2,14 +2,9 @@
 none = "none"
 
 [[main]]
-pageRef = "Posts"
-identifier = "kaTFALF1aq"
-weight = 9_999
-
-[[main]]
-name = "Navigation"
+name = "Posts"
 pageRef = "posts"
-identifier = "E731dPnZYx"
+identifier = "qWlHOV5o6t"
 weight = 9_999
 
 [[footer]]
