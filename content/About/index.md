@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 draft: false
-Date: 14 October 2025
+Date: 2025-11-14
 tags: ["About Me"]
 ---
 I work in IT across service delivery, endpoint management, and technical support. My experience in the local government sector spans day-to-day support, Intune and Configuration Manager administration, PowerShell automation, and occasional server management. I focus on ensuring IT systems are reliable, efficient, and well-maintained, streamlining processes and improving operational consistency.
