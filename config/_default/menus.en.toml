@@ -6,5 +6,11 @@ pageRef = "Posts"
 identifier = "kaTFALF1aq"
 weight = 9_999
 
+[[main]]
+name = "Navigation"
+pageRef = "posts"
+identifier = "E731dPnZYx"
+weight = 9_999
+
 [[footer]]
 none = "none"
