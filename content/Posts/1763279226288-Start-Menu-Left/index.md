@@ -5,7 +5,6 @@ draft: false
 description: "a description"
 tags: ["Windows 11", "Intune"]
 ---
-# Windows 11 Start Menu on Left side of Taskbar
 I've made available the script that I use to position the start menu on the left side of the taskbar.
 [Github](https://github.com/BenColeAu/Intune/tree/de1abf160e0b1ea2b1cea2241efdc30d1b3e491b/Start%20Menu%20Left)
 
