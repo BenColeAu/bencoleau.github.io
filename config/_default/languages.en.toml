@@ -15,7 +15,7 @@ description = "Microsoft Endpoint Management"
   name = "Ben Cole"
 
     [[params.author.links]]
-    linkedin = "https://www.linkedin.com/in/bencole1996/"
+    github = "https://github.com/BenColeAu"
 
 ["params.author"]
 headline = "Windows Endpoint Management with ConfigMgr, Intune, Powershell and More"
