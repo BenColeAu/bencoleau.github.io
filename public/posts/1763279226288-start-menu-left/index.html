@@ -229,7 +229,7 @@
     "keywords": ["Windows 11","Intune"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "174"
+    "wordCount": "247"
   }]
   </script>
 
@@ -580,7 +580,7 @@
   
   <div class="overflow-hidden h-36 md:h-56 lg:h-72">
     <img
-      src="/posts/1763279226288-start-menu-left/featured_hu_ef3f22cbc3420b6e.png"
+      src="/posts/1763279226288-start-menu-left/featured_hu_15367f3a6b27f5c6.png"
       alt="Featured image for Windows 11 Start Menu on Left"
       loading="eager"
       decoding="async"
@@ -680,7 +680,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2025-11-16T00:00:00&#43;00:00">16 November 2025</time><span class="px-2 text-primary-500">&middot;</span><span>174 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span>
+      <time datetime="2025-11-16T00:00:00&#43;00:00">16 November 2025</time><span class="px-2 text-primary-500">&middot;</span><span>247 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span>
     
 
     
@@ -783,17 +783,7 @@
         
 
         <div class="article-content max-w-prose mb-20">
-          
-<h1 class="relative group">Windows 11 Start Menu on Left side of Taskbar
-    <div id="windows-11-start-menu-on-left-side-of-taskbar" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#windows-11-start-menu-on-left-side-of-taskbar" aria-label="Anchor">#</a>
-    </span>
-    
-</h1>
-<p>I&rsquo;ve made available the script that I use to position the start menu on the left side of the taskbar.
+          <p>I&rsquo;ve made available the script that I use to position the start menu on the left side of the taskbar.
 <a
   href="https://github.com/BenColeAu/Intune/tree/de1abf160e0b1ea2b1cea2241efdc30d1b3e491b/Start%20Menu%20Left"
     target="_blank"
@@ -803,6 +793,12 @@ The application deployment has been tested in Autopilot OOBE, ensure this is ass
 You can deploy this at the device level however the experience changes for shared devices. Due to the registery change being made modifies the HKCU.</p>
 <p>This is lightweight change that you can make to ease the Windows 11 transition for your users, especially if you have older users.
 The other option is to begin educating your users on the new start menu location.</p>
+<p>If I decide to revist this script there are some changes I could make for example writing out a registry key for a better detection method and including an &ldquo;uninstall&rdquo; script to remove the registery change should it be required at some point in the future. However for now this is stable.</p>
+<p>Special thanks to Roger Zander who&rsquo;s <a
+  href="https://reg2ps.azurewebsites.net/"
+    target="_blank"
+  >Registry to powershell converter</a> came in handy when building this one.
+I highly recommend this tool for anyone who is building scripts with registry changes.</p>
 <p>I&rsquo;ll make edits to this page if we get a new settings configuration from Microsoft to change the start menu location as this would be the most stable and preffered option.</p>
 <p>Best of Luck,
 Ben</p>
