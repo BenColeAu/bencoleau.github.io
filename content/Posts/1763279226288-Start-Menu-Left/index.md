@@ -13,7 +13,12 @@ The application deployment has been tested in Autopilot OOBE, ensure this is ass
 You can deploy this at the device level however the experience changes for shared devices. Due to the registery change being made modifies the HKCU.
 
 This is lightweight change that you can make to ease the Windows 11 transition for your users, especially if you have older users.
-The other option is to begin educating your users on the new start menu location. 
+The other option is to begin educating your users on the new start menu location.
+
+If I decide to revist this script there are some changes I could make for example writing out a registry key for a better detection method and including an "uninstall" script to remove the registery change should it be required at some point in the future. However for now this is stable.
+
+Special thanks to Roger Zander who's [Registry to powershell converter](https://reg2ps.azurewebsites.net/) came in handy when building this one.
+I highly recommend this tool for anyone who is building scripts with registry changes.
 
 I'll make edits to this page if we get a new settings configuration from Microsoft to change the start menu location as this would be the most stable and preffered option.
 
