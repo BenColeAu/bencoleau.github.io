@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Example on Ben Cole</title>
-    <link>http://localhost:1313/tags/example/</link>
-    <description>Recent content in Example on Ben Cole</description>
+    <title>Intune on Ben Cole</title>
+    <link>http://localhost:1313/tags/intune/</link>
+    <description>Recent content in Intune on Ben Cole</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Ben Cole</copyright>
-    <lastBuildDate>Sun, 16 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/intune/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Start Menu Left</title>
+      <title>Windows 11 Start Menu on Left</title>
       <link>http://localhost:1313/posts/1763279226288-start-menu-left/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
       
