@@ -109,5 +109,5 @@ cardView = false
 cardViewScreenWidth = false
 
 [selineAnalytics]
-token = "f7a292bd04788fa"
-enableTrackEvent = true
+    token = "f7a292bd04788fa"
+    enableTrackEvent = true
