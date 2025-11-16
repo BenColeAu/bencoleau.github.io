@@ -15,12 +15,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 firebase = { }
 fathomAnalytics = { }
 umamiAnalytics = { }
-selineAnalytics = 
-{
-[selineAnalytics]
-    token = "f7a292bd04788fa"
-    enableTrackEvent = true 
-}
+selineAnalytics = { }
 buymeacoffee = { }
 verification = { }
 rssnext = { }
@@ -113,3 +108,6 @@ groupByYear = false
 cardView = false
 cardViewScreenWidth = false
 
+[selineAnalytics]
+  token = "f7a292bd04788fa"
+  enableTrackEvent = true
