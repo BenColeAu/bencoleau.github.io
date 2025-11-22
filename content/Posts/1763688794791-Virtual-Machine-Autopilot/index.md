@@ -8,7 +8,7 @@ tags: ["Autopilot", "Intune"]
 # Configure Virtual Machines with Autopilot - Windows 11
 
 This week I pieced together a test Virtual Machine on VMWare.
-Microsoft have several limitations that can be found posted on [MSLearn](https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/windows-10-virtual-machines)
+Microsoft have several limitations that can be found posted on [MS Learn](https://learn.microsoft.com/en-us/intune/intune-service/fundamentals/windows-10-virtual-machines).
 
 Let's go through each of these limitations and dive in a bit more about the specifics of them. 
 After that I will take you through my build process and learnings so far.
