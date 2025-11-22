@@ -33,9 +33,9 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "Profile"
 showRecent = "False"
-showRecentItems = "5"
+showRecentItems = "0"
 showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = "Disable"

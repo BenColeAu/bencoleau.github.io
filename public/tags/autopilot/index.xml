@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autopilot on Ben Cole</title>
+    <link>http://localhost:1313/tags/autopilot/</link>
+    <description>Recent content in Autopilot on Ben Cole</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Ben Cole</copyright>
+    <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/autopilot/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Virtual Machine Autopilot</title>
+      <link>http://localhost:1313/posts/1763688794791-virtual-machine-autopilot/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/1763688794791-virtual-machine-autopilot/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
