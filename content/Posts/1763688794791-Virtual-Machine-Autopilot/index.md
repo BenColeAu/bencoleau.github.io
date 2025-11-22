@@ -2,7 +2,7 @@
 title: "Virtual Machine Autopilot"
 date: 2025-11-21
 draft: false
-description: "a description"
+description: "Windows 11 Intune managed virtual Machine"
 tags: ["Autopilot", "Intune"]
 ---
 # Configure Virtual Machines with Autopilot - Windows 11
